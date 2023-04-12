@@ -1,0 +1,26 @@
+#define _CRT_SECURE_NO_WARNINGS
+
+#include <stdio.h>
+
+int main(void)
+{
+	double a;
+	double b;
+
+	printf("1일차 체감온도를 입력하세요:");
+	scanf("%lf", &a);
+
+	printf("2일차 체감온도를 입력하세요:");
+	scanf("%lf", &b);
+
+	if(a >= 35 && b >= 35)
+	{
+		printf("폭염경보입니다");
+	}
+	else if(a >= 33 && b >= 33)
+	{
+		printf("폭염주의보입니다");
+	}
+	
+	return 0;
+}
