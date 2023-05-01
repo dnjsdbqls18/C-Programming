@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\dnjsd\OneDrive\바탕 화면\20230416\20230501\20230501\main.cpp(370,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\dnjsd\OneDrive\바탕 화면\20230416\20230501\20230501\main.cpp(373,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  20230501.vcxproj -> C:\Users\dnjsd\OneDrive\바탕 화면\20230416\20230501\x64\Debug\20230501.exe
