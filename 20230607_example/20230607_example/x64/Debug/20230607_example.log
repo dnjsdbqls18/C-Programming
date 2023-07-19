@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\202315024_YuBin WON\20230607_example\20230607_example\main.cpp(39,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  20230607_example.vcxproj -> C:\202315024_YuBin WON\20230607_example\x64\Debug\20230607_example.exe
