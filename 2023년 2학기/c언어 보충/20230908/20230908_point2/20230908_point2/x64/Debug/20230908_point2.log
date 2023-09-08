@@ -1,0 +1,4 @@
+﻿  20230908_point2.cpp
+D:\202315024_Yu Bin WON\2학기\c언어 고국원 교수님\20230908\20230908_point2\20230908_point2\20230908_point2.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\202315024_Yu Bin WON\2학기\c언어 고국원 교수님\20230908\20230908_point2\20230908_point2\20230908_point2.cpp(8,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+  20230908_point2.vcxproj -> D:\202315024_Yu Bin WON\2학기\c언어 고국원 교수님\20230908\20230908_point2\x64\Debug\20230908_point2.exe
