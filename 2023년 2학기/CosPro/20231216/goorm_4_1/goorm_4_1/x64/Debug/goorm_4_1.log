@@ -1,0 +1,21 @@
+﻿  goorm_4_1.cpp
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,23): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,28): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,28): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,33): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,33): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,38): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,38): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,43): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,43): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,48): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,48): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,53): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,53): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,58): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,58): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,63): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,63): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,68): error C2440: '초기화 중': 'const char [2]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\202315024_YuBin WON\CosPro\20231216\goorm_4_1\goorm_4_1\goorm_4_1.cpp(30,68): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
