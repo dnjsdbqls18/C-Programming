@@ -1,0 +1,3 @@
+﻿  20240104_score_array.cpp
+C:\202315024 미래모빌리티공학과 원유빈\HL만도 소프트웨어\2024_1.2~1.12\20240104\20240104_score_array\20240104_score_array\20240104_score_array.cpp(15,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  20240104_score_array.vcxproj -> C:\202315024 미래모빌리티공학과 원유빈\HL만도 소프트웨어\2024_1.2~1.12\20240104\20240104_score_array\x64\Debug\20240104_score_array.exe
