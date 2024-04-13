@@ -1,0 +1,3 @@
+﻿  union_example1.cpp
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union_example1\union_example1\union_example1.cpp(13,21): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  union_example1.vcxproj -> D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union_example1\x64\Debug\union_example1.exe

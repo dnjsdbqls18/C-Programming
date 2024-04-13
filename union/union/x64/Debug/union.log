@@ -1,0 +1,12 @@
+﻿  union.cpp
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\union\union.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\union\union.cpp(15,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\union\union.cpp(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\union\union.cpp(16,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\union\union.cpp(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\union\union.cpp(17,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\union\union.cpp(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\union\union.cpp(18,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\union\union.cpp(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\union\union.cpp(19,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  union.vcxproj -> D:\미래모빌리티공학과 원유빈\2024\1학기\c언어\union\x64\Debug\union.exe
